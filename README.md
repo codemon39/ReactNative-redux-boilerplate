@@ -54,7 +54,7 @@ A React Native starter template.
 ### Clone this repo
 
 ```
-git clone https://github.com/saheeranas/react-native-redux-boilerplate.git
+git clone https://github.com/astrohunter62/reactnative-redux-boilerplate.git
 ```
 
 ### Open project folder and install dependencies
